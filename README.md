@@ -4,5 +4,5 @@
 * Rails version - 5.2.4
 * Heroku url: http://finance-tracker-giorgi.herokuapp.com/
 
-*NOTICE
-*You will be needed to change in models/stock.rb API-KEY to run application.
+* NOTICE
+* You will be needed to change in models/stock.rb API-KEY to run application.
