@@ -25,6 +25,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
+gem 'twitter-bootstrap-rails'
 gem 'iex-ruby-client'
 gem 'hirb'
 # Use Redis adapter to run Action Cable in production
